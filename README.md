@@ -1,7 +1,7 @@
 # AI-Sectools project outputs
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-The catalogue of security tools, methods and libraries developed and extended during AI-Sectools project.
+The catalogue of security tools, methods and libraries developed and extended during AI-SecTools project (VJ02010010).
 
 ## Security certification 
 | Tool | Repo stats | Target domain | Info | Reports & Publications | Notes | 
@@ -64,3 +64,4 @@ The catalogue of security tools, methods and libraries developed and extended du
 
 [ct]: https://img.shields.io/badge/cataloque-sca-lightred
 
+Development was supported by the AI-SecTools (VJ02010010) project.
