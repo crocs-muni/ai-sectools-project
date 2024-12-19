@@ -25,6 +25,8 @@ The catalogue of security tools, methods and libraries developed and extended du
 | Tool | Repo stats | Target domain | Info | Reports & Publications | Notes | 
 |----------|----------|----------|----------|----------|----------|
 |[scrutiny-power-traces-analyzer](https://github.com/crocs-muni/scrutiny-power-traces-analyzer)    |  ![stars](https://img.shields.io/github/stars/crocs-muni/scrutiny-power-traces-analyzer.svg?style=social) ![numcontributors](https://img.shields.io/github/contributors-anon/crocs-muni/scrutiny-power-traces-analyzer.svg)  ![lastcommit](https://img.shields.io/github/last-commit/crocs-muni/scrutiny-power-traces-analyzer.svg)    | ![][javacard] |  The SCRUTINY analyzer for power traces of cryptographic operations captured from smartcards with three main modules implemented: Traces comparer, Trace classifier and CO template finder.  |    |    |
+|[Catalogue of constant-timeness checkers](https://github.com/crocs-muni/ct-tools)    |  ![stars](https://img.shields.io/github/stars/crocs-muni/ct-tools.svg?style=social) ![numcontributors](https://img.shields.io/github/contributors-anon/crocs-muni/ct-tools.svg)  ![lastcommit](https://img.shields.io/github/last-commit/crocs-muni/ct-tools.svg)    | ![][ct] |  The list of tools for testing and verification of constant-timeness of programs.   |    |    |
+
 
 ## Software cryptographic libraries
 | Tool | Repo stats | Target domain | Info | Reports & Publications | Notes | 
@@ -44,7 +46,7 @@ The catalogue of security tools, methods and libraries developed and extended du
 |----------|----------|----------|----------|----------|----------|
 | [booltest](https://github.com/ph4r05/booltest)   |  ![stars](https://img.shields.io/github/stars/ph4r05/booltest.svg?style=social)  ![numcontributors](https://img.shields.io/github/contributors-anon/ph4r05/booltest.svg) ![lastcommit](https://img.shields.io/github/last-commit/ph4r05/booltest.svg) | ![][rng] | Statical randomness testing tool for TRNG and PRNG generators based on boolean polynomials. |   |    |
 | [cooltest](https://github.com/jirigav/cooltest/)  | ![stars](https://img.shields.io/github/stars/jirigav/cooltest.svg?style=social)  ![numcontributors](https://img.shields.io/github/contributors-anon/jirigav/cooltest.svg) ![lastcommit](https://img.shields.io/github/last-commit/jirigav/cooltest.svg)   | ![][rng] | Statical randomness testing tool for TRNG and PRNG generators based on a histogram construction.   |    |    |
-| [Randomness Testing Toolkit](https://github.com/crocs-muni/randomness-testing-toolkit)  | ![stars](https://img.shields.io/github/stars/crocs-muni/randomness-testing-toolkit.svg?style=social)  ![numcontributors](https://img.shields.io/github/contributors-anon/crocs-muni/randomness-testing-toolkit.svg) ![lastcommit](https://img.shields.io/github/last-commit/crocs-muni/randomness-testing-toolkit.svg)   | ![][rng] | Set of statistical randomness tests (NIST STS, Dieherader, TestU01) unified under same interface and results evaluation. |    |    |
+| [Randomness Testing Toolkit](https://github.com/crocs-muni/randomness-testing-toolkit)  | ![stars](https://img.shields.io/github/stars/crocs-muni/randomness-testing-toolkit.svg?style=social)  ![numcontributors](https://img.shields.io/github/contributors-anon/crocs-muni/randomness-testing-toolkit.svg) ![lastcommit](https://img.shields.io/github/last-commit/crocs-muni/randomness-testing-toolkit.svg)   | ![][rng] | Set of statistical randomness tests (NIST STS, Dieherader, TestU01) unified under same interface and results evaluation. | [[1](https://crocs.fi.muni.cz/public/papers/usablect_sp22)], [[2](https://crocs.fi.muni.cz/public/papers/usablect_usenix24)]   |    |
 
 
 
@@ -59,4 +61,6 @@ The catalogue of security tools, methods and libraries developed and extended du
 [rsa]: https://img.shields.io/badge/alg-RSA-red
 [ecc]: https://img.shields.io/badge/alg-ECC-orange
 [rng]: https://img.shields.io/badge/alg-rng-lightgray
+
+[ct]: https://img.shields.io/badge/cataloque-sca-lightred
 
