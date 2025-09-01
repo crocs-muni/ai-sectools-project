@@ -1,7 +1,8 @@
 # AI-Sectools project outputs
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-The catalogue of security tools, methods and libraries developed and extended during AI-SecTools project (VJ02010010).
+The catalogue of security tools, methods and libraries developed and extended during AI-SecTools project (VJ02010010) by Masaryk University (CRoCS) partner.
+Results from VUT partner are summarized [here](https://gitlab.com/brno-axe/pqc/scaresistantcryptoipcores)
 
 List of reports (in Czech, see tools repositories and reserach papers for documentation in English): [Etapa 3](https://github.com/crocs-muni/ai-sectools-project/blob/main/reports/Etapa_03_MU_tools_2022.pdf), [Etapa 4](https://github.com/crocs-muni/ai-sectools-project/blob/main/reports/Etapa_04_MU_tools_2022.pdf), [Etapa 9](https://github.com/crocs-muni/ai-sectools-project/blob/main/reports/Etapa_09_MU_tools_2023.pdf), [Etapa 10](https://github.com/crocs-muni/ai-sectools-project/blob/main/reports/Etapa_10_MU_tools_2023.pdf), [Etapa 15](https://github.com/crocs-muni/ai-sectools-project/blob/main/reports/Etapa_15_MU_tools_2024.pdf), [Etapa 16](https://github.com/crocs-muni/ai-sectools-project/blob/main/reports/Etapa_16_MU_tools_2024.pdf)  
 
