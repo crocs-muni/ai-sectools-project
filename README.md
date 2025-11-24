@@ -60,6 +60,26 @@ List of reports (in Czech, see tools repositories and research papers for docume
 | [cooltest](https://github.com/jirigav/cooltest/)  | ![stars](https://img.shields.io/github/stars/jirigav/cooltest.svg?style=social)  ![numcontributors](https://img.shields.io/github/contributors-anon/jirigav/cooltest.svg) ![lastcommit](https://img.shields.io/github/last-commit/jirigav/cooltest.svg)   | ![][rng] | Statical randomness testing tool for TRNG and PRNG generators based on a histogram construction.   | Etapa_16/2024, sw_modul_c2/2025, [[IFIPSec'25](https://link.springer.com/chapter/10.1007/978-3-031-92886-4_1)] |  |
 | [Randomness Testing Toolkit](https://github.com/crocs-muni/randomness-testing-toolkit)  | ![stars](https://img.shields.io/github/stars/crocs-muni/randomness-testing-toolkit.svg?style=social)  ![numcontributors](https://img.shields.io/github/contributors-anon/crocs-muni/randomness-testing-toolkit.svg) ![lastcommit](https://img.shields.io/github/last-commit/crocs-muni/randomness-testing-toolkit.svg)   | ![][rng] | Set of statistical randomness tests (NIST STS, Dieherader, TestU01) unified under same interface and results evaluation. |   |    |
 
+## Papers published
+| Paper | Publication links | 
+|----------|----------|
+| CoolTest: Improved Randomness Testing Using Boolean Functions. Jiri Gavenda and Marek Sys. |   [[IFIPSec'25](https://link.springer.com/chapter/10.1007/978-3-031-92886-4_1)]   |
+| BarraCUDA: Edge GPUs do Leak DNN Weights. Peter Horvath, Łukasz Chmielewski, Léo Weissbart, Lejla Batina and Yuval Yarom. |   [[USENIXSec'25](www.usenix.org/conference/usenixsecurity25/presentation/horvath)]   |
+| Revisiting the analysis of references among Common Criteria certified products. Adam Janovsky, Lukasz Chmielewski, Petr Svenda, Jan Jancar and Vashek Matyas. | [[Computers & Security'25/152](https://www.sciencedirect.com/science/article/pii/S0167404825000513)] |
+| Large-scale security analysis of hardware wallets. Milan Sorf, Petr Svenda and Lukasz Chmielewski. | [[TRUSTBUS'25](https://link.springer.com/chapter/10.1007/978-3-032-00633-2_21)] |
+| ECTester: Reverse-engineering side-channel countermeasures of ECC implementations. Vojtech Suchanek, Jan Jancar, Jan Kvapil, Petr Svenda and Lukasz Chmielewski. |  [[CHES'25](https://pyecsca.org/papers.html#ectester-reverse-engineering-side-channel-countermeasures-of-ecc-implementations)] |
+| sec-certs: Examining the security certification practice for better vulnerability mitigation. Adam Janovsky, Jan Jancar, Petr Svenda, Lukasz Chmielewski, Jiri Michalik and Vashek Matyas. | [[Computers & Security'24/143](https://www.sciencedirect.com/science/article/pii/S0167404824001974)] |
+| Chain of Trust: Unraveling References Among Common Criteria Certified Products. Adam Janovsky, Lukasz Chmielewski, Petr Svenda, Jan Jancar and Vashek Matyas. | [[IFIPSec'24](https://link.springer.com/chapter/10.1007/978-3-031-65175-5_14)]  |
+| TPMScan: A wide-scale study of security-relevant properties of TPM 2.0 chips. Petr Svenda, Antonin Dufka, Milan Broz, Roman Lacko, Tomas Jaros, Daniel Zatovic and Josef Pospisil. | [[CHES'24](https://crocs.fi.muni.cz/public/papers/tpm_ches2024)] |
+| pyecsca: Reverse engineering black-box elliptic curve cryptography via side-channel analysis. Jan Jancar, Vojtech Suchanek, Petr Svenda, Vladimir Sedlacek and Lukasz Chmielewski. |  [[CHES'24](https://tches.iacr.org/index.php/TCHES/article/view/11796)] |
+| “These results must be false”: A usability evaluation of constant-time analysis tools. Marcel Fourné, Daniel De Almeida Braga, Jan Jancar, Mohamed Sabt, Peter Schwabe, Gilles Barthe, Pierre-Alain Fouque and Yasemin Acar. | [[USENIXSec'24](https://crocs.fi.muni.cz/public/papers/usablect_usenix24)]  |
+| Breaking DPA-protected Kyber via the pair-pointwise multiplication. Estuardo Alpirez Bock, Gustavo Banegas, Chris Brzuska, Lukasz Chmielewski, Kirthivaasan Puniamurthy and Milan Šorf | [[ACNS'24](https://link.springer.com/chapter/10.1007/978-3-031-54773-7_5)] |
+| The adoption rate of JavaCard features by certified products and open-source projects. Lukas Zaoral, Antonin Dufka and Petr Svenda. | [[CARDIS'23](https://link.springer.com/chapter/10.1007/978-3-031-54409-5_9)] |
+| SoK: SCA-secure ECC in software - mission impossible? Lejla Batina, Lukasz Chmielewski, Björn Haase, Niels Samwel and Peter Schwabe. |  [[CHES'23](https://artifacts.iacr.org/tches/2023/a4/)] |
+| JCAlgTest: Robust identification metadata for certified smartcards. Petr Svenda, Rudolf Kvasnovsky, Imrich Nagy and Antonin Dufka. | [[SECRYPT'22](https://www.scitepress.org/PublishedPapers/2022/112940/)] |
+| “They’re not that hard to mitigate”: What Cryptographic Library Developers Think About Timing Attacks. Jan Jancar, Marcel Fourné, Daniel De Almeida Braga, Mohamed Sabt, Peter Schwabe, Gilles Barthe, Pierre-Alain Fouque and Yasemin Acar. | [[IEEE S&P'22](https://crocs.fi.muni.cz/public/papers/usablect_sp22)] |
+ | “These results must be false”: A usability evaluation of constant-time analysis tools. Marcel Fourné, Daniel De Almeida Braga, Jan Jancar, Mohamed Sabt, Peter Schwabe, Gilles Barthe, Pierre-Alain Fouque and Yasemin Acar. | [[USENIXSec'24](https://crocs.fi.muni.cz/public/papers/usablect_usenix24)]  |
+
 
 
 
