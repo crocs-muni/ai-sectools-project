@@ -78,7 +78,6 @@ List of reports (in Czech, see tools repositories and research papers for docume
 | SoK: SCA-secure ECC in software - mission impossible? Lejla Batina, Lukasz Chmielewski, Björn Haase, Niels Samwel and Peter Schwabe. |  [[CHES'23](https://artifacts.iacr.org/tches/2023/a4/)] |
 | JCAlgTest: Robust identification metadata for certified smartcards. Petr Svenda, Rudolf Kvasnovsky, Imrich Nagy and Antonin Dufka. | [[SECRYPT'22](https://www.scitepress.org/PublishedPapers/2022/112940/)] |
 | “They’re not that hard to mitigate”: What Cryptographic Library Developers Think About Timing Attacks. Jan Jancar, Marcel Fourné, Daniel De Almeida Braga, Mohamed Sabt, Peter Schwabe, Gilles Barthe, Pierre-Alain Fouque and Yasemin Acar. | [[IEEE S&P'22](https://crocs.fi.muni.cz/public/papers/usablect_sp22)] |
- | “These results must be false”: A usability evaluation of constant-time analysis tools. Marcel Fourné, Daniel De Almeida Braga, Jan Jancar, Mohamed Sabt, Peter Schwabe, Gilles Barthe, Pierre-Alain Fouque and Yasemin Acar. | [[USENIXSec'24](https://crocs.fi.muni.cz/public/papers/usablect_usenix24)]  |
 
 
 
