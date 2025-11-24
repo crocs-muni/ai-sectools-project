@@ -63,9 +63,7 @@ List of reports (in Czech, see tools repositories and research papers for docume
 ## Papers published
 | Paper | Publication links | 
 |----------|----------|
-| CoolTest: Improved Randomness Testing Using Boolean Functions. Jiri Gavenda and Marek Sys. |   [[IFIPSec'25](https://link.springer.com/chapter/10.1007/978-3-031-92886-4_1)]   |
 | BarraCUDA: Edge GPUs do Leak DNN Weights. Peter Horvath, Łukasz Chmielewski, Léo Weissbart, Lejla Batina and Yuval Yarom. |   [[USENIXSec'25](www.usenix.org/conference/usenixsecurity25/presentation/horvath)]   |
-| Revisiting the analysis of references among Common Criteria certified products. Adam Janovsky, Lukasz Chmielewski, Petr Svenda, Jan Jancar and Vashek Matyas. | [[Computers & Security'25/152](https://www.sciencedirect.com/science/article/pii/S0167404825000513)] |
 | Large-scale security analysis of hardware wallets. Milan Sorf, Petr Svenda and Lukasz Chmielewski. | [[TRUSTBUS'25](https://link.springer.com/chapter/10.1007/978-3-032-00633-2_21)] |
 | ECTester: Reverse-engineering side-channel countermeasures of ECC implementations. Vojtech Suchanek, Jan Jancar, Jan Kvapil, Petr Svenda and Lukasz Chmielewski. |  [[CHES'25](https://pyecsca.org/papers.html#ectester-reverse-engineering-side-channel-countermeasures-of-ecc-implementations)] |
 | sec-certs: Examining the security certification practice for better vulnerability mitigation. Adam Janovsky, Jan Jancar, Petr Svenda, Lukasz Chmielewski, Jiri Michalik and Vashek Matyas. | [[Computers & Security'24/143](https://www.sciencedirect.com/science/article/pii/S0167404824001974)] |
